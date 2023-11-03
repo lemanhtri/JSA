@@ -19,3 +19,12 @@ for (var input = 0; input < 3; input++) {
     var amountofruong = ruong[input].amount
     console.log(' toi co ' + amountofruong + typeofruong)
 }
+
+
+// Bai3
+var charactor = {
+    name: ' yelan ',
+    age: 18
+
+}
+console.log(charactor)
