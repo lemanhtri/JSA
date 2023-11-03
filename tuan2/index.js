@@ -24,7 +24,9 @@ for (var input = 0; input < 3; input++) {
 // Bai3
 var charactor = {
     name: ' yelan ',
-    age: 18
+    age: 18,
+    vision: water,
+    birthday: 20 / 4
 
 }
 console.log(charactor)
