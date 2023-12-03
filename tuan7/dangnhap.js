@@ -8,7 +8,7 @@ let errorMessagePassword = errorMessages[1];
 // Bien chua tai khoan he thong
 
 const account = {
-  email: "trile@gmail.com",
+  email: "khang123@gmail.com",
   pass: "123123",
 };
 

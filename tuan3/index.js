@@ -1,5 +1,6 @@
-var name1 = 'khang'
-{
-    var name1 = 'tuan'
-}
-consolele.log(name1)
+const anime = [{
+    id: 1,
+    name: jujutsukaisen,
+    episode: 164,
+
+}]
